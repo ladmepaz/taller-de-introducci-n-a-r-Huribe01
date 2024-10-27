@@ -1,6 +1,6 @@
 # Resuelve el ejercicio de acuerdo a lo indicado dentro de la función
 
-solucion <- function() {
+solucion <- function(a,b) {
   # Asigna valores a 'a' y 'b' de manera que el valor asignado a 's' sea 100
   a <- 70 # asigna valor aquí
   b <- 30 # asigna valor aquí
